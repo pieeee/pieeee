@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="180px" src="https://avatars.githubusercontent.com/u/61839084?s=400&u=b3d8d48c0ab1eb4d7ef532c6fd27d96f7143c909&v=4">
-</p>
-
 
 ### Hi there, I'm Sheikh Ahnaf Hasan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
