@@ -1,8 +1,13 @@
-### Hi there, I'm Sheikh Ahnaf Hasan 👋
+<p align="center">
+  <img width="180px" src="https://avatars.githubusercontent.com/u/61839084?s=400&u=b3d8d48c0ab1eb4d7ef532c6fd27d96f7143c909&v=4">
+</p>
+
+
+### Hi there, I'm Sheikh Ahnaf Hasan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a MERN stack developer with a array of knowledge in React.js, Next.js, Node-express, responsive frameworks like MUI, AntD, Bootstrap, sql/nosql, and best code practices. My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continuously making strides to learn all that I can about development.
 
-#### Current Projects I'm working on:
+#### Current Projects I'm working on
 
 - **[Jubilant Potato](https://jubilant-tech.herokuapp.com/)**
 
@@ -18,6 +23,24 @@ A mern stack authentication system featuring tons of errors handling, form valid
 Repo: https://github.com/pieeee/MERN-Stack-Authentication
 
 #### My Github Stats
-[![pieee's GitHub stats](https://github-readme-stats.vercel.app/api?username=pieeee&show_icons=true&theme=dark)](https://github.com/pieeee)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pieeee&show_icons=true&theme=dark">
+</p>
 
+#### Find Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sheikh-ahnaf-hasan/">
+    <img align="left" alt="Nitin Prakash | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://facebook.com/aneel.23">
+    <img align="left" alt="Nitin Prakash | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  </a>
+  <a href="https://www.reddit.com/user/ahnafX">
+    <img align="left" alt="Nitin Prakash | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01acd40532d74d5e7d">
+    <img align="left" alt="Nitin Prakash | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />
+  </a>
+</p>
