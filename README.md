@@ -8,7 +8,6 @@ As a Full Stack Developer, I have a strong foundation in both front-end and back
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [sheikhahnafhasan@gmail.com](mailto:sheikhahnafhasan@gmail.com)
-* 🚀  I'm currently working on [Woofmeets](http://woofmeets.com)
 * 🧠  I'm learning Go Lang
 * 🤝  I'm open to collaborating on Any JS project
 * ⚡  I'm batman
